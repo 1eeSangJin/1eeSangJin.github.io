@@ -9,7 +9,7 @@ title: Welcome to Jin's World!
 
 「9月16日からスタート」
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![No Image](https://user-images.githubusercontent.com/43138326/45596579-c43a8e80-b9f8-11e8-8f0d-8f32199ae0fe.jpg)
 
 ============================================
 
